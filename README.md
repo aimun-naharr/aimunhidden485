@@ -11,3 +11,6 @@
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: Love to watch movies
 -->
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aimunhidden485&theme=radical)
