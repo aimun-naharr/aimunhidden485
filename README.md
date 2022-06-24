@@ -1,8 +1,10 @@
-<img align="left" alt="aimun nahar" width="450px"  src="https://i.ibb.co/X78cPNs/svg2.jpg" />
+<img align="left" alt="aimun nahar" width="400px"  src="https://i.ibb.co/X78cPNs/svg2.jpg" />
 
 ### Hola, I'm Aimun Nahar 👋
+---
 
-**I am a front-end developer** 
+
+## I am a front-end developer
 
 
 
@@ -14,7 +16,7 @@
 - ⚡ Fun fact: Love to watch movies
 -->
 
-
+<br/> <br/><br/> <br/>
 
 
 ---
@@ -30,7 +32,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /><br/>
 ---
-<br/>
+
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aimunhidden485&theme=radical)
