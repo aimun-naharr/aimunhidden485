@@ -36,3 +36,6 @@
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aimunhidden485&theme=radical)
+
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimunhidden485&layout=compact&card_width=500&title_color=00BFFF&text_color=ffffff&bg_color=191919)
