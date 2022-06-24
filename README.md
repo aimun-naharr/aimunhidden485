@@ -1,3 +1,5 @@
+<img align="left" alt="aimun nahar" width="450px"  src="https://i.ibb.co/X78cPNs/svg2.jpg" />
+
 ### Hola, I'm Aimun Nahar 👋
 
 **I am a front-end developer** 
