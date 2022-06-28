@@ -1,4 +1,4 @@
-<img align="left" alt="aimun nahar" width="400px"  src="https://i.ibb.co/X78cPNs/svg2.jpg" />
+<img align="left" alt="aimun nahar" width="400px"  src="https://i.ibb.co/xSXbvdx/codinGif.gif" />
 
 ### Hola, I'm Aimun Nahar 👋
 ---
