@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning Typescript, nextJS
 - 💬 Ask me about HTML, CSS, JS, React 
 - 📫 How to reach me: aimunnaharr@gmail.com
 - 😄 Pronouns: She/her
