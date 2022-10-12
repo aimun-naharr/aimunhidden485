@@ -13,7 +13,7 @@
 - 💬 Ask me about HTML, CSS, JS, React 
 - 📫 How to reach me: aimunnaharr@gmail.com
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: Love to watch movies
+- ⚡ Fun fact: I don't know when to quit.
 -->
 
 <br/> <br/><br/> <br/>
