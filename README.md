@@ -1,7 +1,7 @@
 
 
 ### Hola, 👋
----
+
 
 
 <p align="left">
@@ -14,7 +14,13 @@
 <img  src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=18414993&textfill=black&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A">
 </a>
 
-### !Uncomfortable 
+
+<p align="left">
+<a href="https://github.com/aimunhidden485/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=text&text=comfortable&fill=linear-gradient%28to%20top%2C%20%23a18cd1%200%25%2C%20%23fbc2eb%20100%25%29%3B">
+</a>
+</p>  
+<!-- ### !Uncomfortable  -->
 <p align="left">  
 <a href="https://github.com/harish-sethuraman/readme-components">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
