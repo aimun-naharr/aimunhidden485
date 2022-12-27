@@ -16,13 +16,14 @@
 </a>
 
 
+
 <p align="left">
 <a href="https://github.com/aimunhidden485/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=text&text=!UNCOMFORTABLE&fill=linear-gradient%28to%20top%2C%20%23a18cd1%200%25%2C%20%23fbc2eb%20100%25%29%3B">
 </a>
 </p>  
 <!-- ### !Uncomfortable  -->
-<p align="left">  
+<p align="center">  
 <a href="https://github.com/harish-sethuraman/readme-components">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
  </a>
@@ -51,7 +52,16 @@
 
 ---
 
-<p align="left">
+## Find me on
+
+<br />
+
+[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/aimun-nahar-b915b9205/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/aimunNaharr/)
+
+<br />
+
+
+<p align="right">
 <a href="https://github.com/aimunhidden485/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=quote&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A">
 </a>
