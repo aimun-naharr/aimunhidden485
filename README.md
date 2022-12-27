@@ -52,13 +52,7 @@
 
 ---
 
-## Find me on
 
-<br />
-
-[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/aimun-nahar-b915b9205/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/aimunNaharr/)
-
-<br />
 
 
 <p align="right">
