@@ -55,7 +55,7 @@
 
 
 
-<p align="right">
+<p align="left">
 <a href="https://github.com/aimunhidden485/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=quote&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A">
 </a>
